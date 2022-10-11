@@ -1,0 +1,44 @@
+2022-10-11 15:56:17,791  INFO [main] SauceDemo10:37 - Chrome Driver is Opened
+2022-10-11 15:56:17,928  INFO [main] SauceDemo10:48 - windows is maximized
+2022-10-11 15:56:19,949  INFO [main] SauceDemo10:52 - SD URL is opened
+2022-10-11 15:56:19,956  INFO [main] SauceDemo10:55 - windows is maximized
+2022-10-11 15:56:20,073  INFO [main] SauceDemo10:65 - Sent the user name
+2022-10-11 15:56:20,140  INFO [main] SauceDemo10:68 - Sent the password
+2022-10-11 15:56:20,231  INFO [main] SauceDemo10:71 - Clicked on Login Button
+2022-10-11 15:56:20,719  INFO [main] SauceDemo10:57 - Applying validations
+2022-10-11 15:56:20,728  INFO [main] SauceDemo10:65 - Login TC is passed
+2022-10-11 15:56:21,041  INFO [main] SauceDemo10:82 - Browser is closed
+2022-10-11 15:56:21,041  INFO [main] SauceDemo10:84 - End of Program
+2022-10-11 15:56:21,697  INFO [main] SauceDemo10:37 - Chrome Driver is Opened
+2022-10-11 15:56:21,829  INFO [main] SauceDemo10:48 - windows is maximized
+2022-10-11 15:56:22,176  INFO [main] SauceDemo10:52 - SD URL is opened
+2022-10-11 15:56:22,183  INFO [main] SauceDemo10:55 - windows is maximized
+2022-10-11 15:56:22,293  INFO [main] SauceDemo10:65 - Sent the user name
+2022-10-11 15:56:22,361  INFO [main] SauceDemo10:68 - Sent the password
+2022-10-11 15:56:22,449  INFO [main] SauceDemo10:71 - Clicked on Login Button
+2022-10-11 15:56:23,131  INFO [main] SauceDemo10:27 - Applying validations
+2022-10-11 15:56:23,136  INFO [main] SauceDemo10:35 - Logout TC is passed
+2022-10-11 15:56:23,334  INFO [main] SauceDemo10:82 - Browser is closed
+2022-10-11 15:56:23,334  INFO [main] SauceDemo10:84 - End of Program
+2022-10-11 15:56:24,017  INFO [main] SauceDemo10:37 - Chrome Driver is Opened
+2022-10-11 15:56:24,147  INFO [main] SauceDemo10:48 - windows is maximized
+2022-10-11 15:56:24,686  INFO [main] SauceDemo10:52 - SD URL is opened
+2022-10-11 15:56:24,691  INFO [main] SauceDemo10:55 - windows is maximized
+2022-10-11 15:56:24,774  INFO [main] SauceDemo10:65 - Sent the user name
+2022-10-11 15:56:24,841  INFO [main] SauceDemo10:68 - Sent the password
+2022-10-11 15:56:24,942  INFO [main] SauceDemo10:71 - Clicked on Login Button
+2022-10-11 15:56:25,459  INFO [main] SauceDemo10:25 - 1
+2022-10-11 15:56:25,459  INFO [main] SauceDemo10:28 - pass
+2022-10-11 15:56:25,661  INFO [main] SauceDemo10:82 - Browser is closed
+2022-10-11 15:56:25,661  INFO [main] SauceDemo10:84 - End of Program
+2022-10-11 15:56:26,409  INFO [main] SauceDemo10:37 - Chrome Driver is Opened
+2022-10-11 15:56:26,533  INFO [main] SauceDemo10:48 - windows is maximized
+2022-10-11 15:56:27,886  INFO [main] SauceDemo10:52 - SD URL is opened
+2022-10-11 15:56:27,890  INFO [main] SauceDemo10:55 - windows is maximized
+2022-10-11 15:56:27,967  INFO [main] SauceDemo10:65 - Sent the user name
+2022-10-11 15:56:28,026  INFO [main] SauceDemo10:68 - Sent the password
+2022-10-11 15:56:28,113  INFO [main] SauceDemo10:71 - Clicked on Login Button
+2022-10-11 15:56:28,703  INFO [main] SauceDemo10:30 - 6
+2022-10-11 15:56:28,704  INFO [main] SauceDemo10:33 - pass
+2022-10-11 15:56:28,894  INFO [main] SauceDemo10:82 - Browser is closed
+2022-10-11 15:56:28,894  INFO [main] SauceDemo10:84 - End of Program
